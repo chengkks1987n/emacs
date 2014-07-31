@@ -2,11 +2,11 @@ my emacs settings
 
 require:
 	eamcs 24 or later
-	install wget.
+	install wget.(needed by jdee)
 
 some plugins:
  - java develep	
-   jdee-2.4.1 : this is download from web, requre wget to be installed.
+   jdee-2.4.1 : this is download from web.
    javadoc-help.el - this is download from web, lookup APIs for java.
          
 
