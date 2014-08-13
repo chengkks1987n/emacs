@@ -13,5 +13,5 @@ some plugins:
 How to use:
  - copy this folder to ~/.emacs.d/
  - create file ~/.emacs, add the follow lines:
-     (add-to-list 'load-path "~/.emacs.d/emacs.d")
+     (add-to-list 'load-path "~/.emacs.d/emacs")
      (require 'init)
